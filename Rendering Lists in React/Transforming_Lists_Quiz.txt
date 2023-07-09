@@ -1,0 +1,5 @@
+1. While using the 'filter' operation from arrays in Javascript, we should return true to keep the element 
+    and false to filter out the element.
+
+2. When chaining the three array operators required to complete the exercise, map, filter and sort. We need 
+    to apply them in the following order: Filter, Sort, and Map.
